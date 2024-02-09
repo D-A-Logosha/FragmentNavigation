@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">FragmentNavigation</string>
+
+    <string name="fragment">Fragment</string>
+    <string name="go_b">go B</string>
+    <string name="back">Back</string>
+    <string name="go_c">go C</string>
+    <string name="back_a">back A</string>
+    <string name="go_d">go D</string>
+    <string name="back_b">back B</string>
+    <string name="fragment_a_title">Fragment A</string>
+    <string name="fragment_b_title">Fragment B</string>
+    <string name="fragment_c_title">Fragment C</string>
+    <string name="fragment_d_title">Fragment D</string>
 </resources>
